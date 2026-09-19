@@ -11,6 +11,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [DNABERT-S](https://github.com/MAGICS-LAB/DNABERT_S): species-aware embeddings for genome discrimination
 - [Evo](https://github.com/evo-design/evo): genome-scale generative model spanning molecular to genome scale
 - [Evo 2](https://github.com/ArcInstitute/evo2): genome modeling and design across all domains of life
+- [GENA-LM](https://github.com/AIRI-Institute/GENA_LM): open-source foundation models trained on human genome sequences using byte-pair encoding
 - [GenSLMs](https://github.com/ramanathanlab/genslm): genome-scale language models trained on microbial genomes
 - [gLM2](https://github.com/TattaBio/gLM2): mixed-modality genomic language model over the OMG corpus
 - [GPN](https://github.com/songlab-cal/gpn): genomic pretrained network, including the multiple-alignment GPN-MSA variant
