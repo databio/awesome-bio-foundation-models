@@ -88,6 +88,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Biomedical text and knowledge models
 
+- [BioBERT](https://github.com/dmis-lab/biobert): domain-specific language model pretrained on PubMed biomedical literature
 - [BioGPT](https://github.com/microsoft/BioGPT): generative pretrained transformer for biomedical text
 - [TxGNN](https://github.com/mims-harvard/TxGNN): zero-shot drug repurposing over a medical knowledge graph
 
