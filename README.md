@@ -35,6 +35,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT): pretrained model for cell type annotation
 - [scFoundation](https://github.com/biomap-research/scFoundation): large-scale model over the full transcriptome
 - [scGPT](https://github.com/bowang-lab/scGPT): generative pretrained model for single-cell multi-omics
+- [SCimilarity](https://github.com/Genentech/scimilarity): single-cell foundation model for cell annotation and similarity search
 - [scMulan](https://github.com/SuperBianC/scMulan): multitask generative model of cell language
 - [scPRINT](https://github.com/cantinilab/scPRINT): pretrained model for gene network inference and denoising
 - [STATE](https://github.com/ArcInstitute/state): model of cellular perturbation response
