@@ -91,6 +91,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 - [BioBERT](https://github.com/dmis-lab/biobert): domain-specific language model pretrained on PubMed biomedical literature
 - [BioGPT](https://github.com/microsoft/BioGPT): generative pretrained transformer for biomedical text
+- [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext): domain-specific language model pretrained from scratch on PubMed abstracts and full-text articles
 - [TxGNN](https://github.com/mims-harvard/TxGNN): zero-shot drug repurposing over a medical knowledge graph
 
 ## Benchmarks and evaluation
