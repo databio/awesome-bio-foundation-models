@@ -75,6 +75,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [AlphaFold 3](https://github.com/google-deepmind/alphafold3): joint structure prediction for proteins, nucleic acids, and ligands
 - [Boltz](https://github.com/jwohlwend/boltz): open biomolecular structure prediction model
 - [Chai-1](https://github.com/chaidiscovery/chai-lab): multimodal model for molecular structure prediction
+- [EvoDiff](https://github.com/microsoft/evodiff): generative protein diffusion model for sequence generation and design
 - [OpenFold](https://github.com/aqlaboratory/openfold): trainable open-source reimplementation of AlphaFold 2
 - [ProteinMPNN](https://github.com/dauparas/ProteinMPNN): deep learning based protein sequence design
 - [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion): diffusion model for de novo protein design
