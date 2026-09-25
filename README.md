@@ -84,6 +84,7 @@ A collection of large-scale pretrained models built specifically for biological 
 ## Pathology and imaging models
 
 - [CONCH](https://github.com/mahmoodlab/CONCH): vision-language foundation model for computational pathology
+- [H-optimus-0](https://huggingface.co/bioptimus/H-optimus-0): open-source histology foundation model pretrained on whole slide images
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath): whole-slide foundation model for digital pathology
 - [UNI](https://github.com/mahmoodlab/UNI): general-purpose pathology image encoder
 - [Virchow](https://huggingface.co/paige-ai/Virchow): large pathology foundation model
