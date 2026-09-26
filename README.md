@@ -85,6 +85,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 - [CONCH](https://github.com/mahmoodlab/CONCH): vision-language foundation model for computational pathology
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath): whole-slide foundation model for digital pathology
+- [TITAN](https://github.com/mahmoodlab/TITAN): multimodal whole-slide foundation model for pathology
 - [UNI](https://github.com/mahmoodlab/UNI): general-purpose pathology image encoder
 - [Virchow](https://huggingface.co/paige-ai/Virchow): large pathology foundation model
 
