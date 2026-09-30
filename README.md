@@ -61,6 +61,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Protein language models
 
+- [AbLang](https://github.com/oxpig/AbLang): antibody language model pretrained on antibody sequences for sequence restoration and representation learning
 - [Ankh](https://github.com/agemagician/Ankh): optimized general-purpose protein language model
 - [ESM](https://github.com/facebookresearch/esm): ESM-1b, ESM-2, and ESMFold protein language models
 - [ESM3 / ESM C](https://github.com/evolutionaryscale/esm): multimodal generative protein models over sequence, structure, and function
