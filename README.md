@@ -65,6 +65,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [ESM](https://github.com/facebookresearch/esm): ESM-1b, ESM-2, and ESMFold protein language models
 - [ESM3 / ESM C](https://github.com/evolutionaryscale/esm): multimodal generative protein models over sequence, structure, and function
 - [ProGen](https://github.com/salesforce/progen): generative protein language models for controllable design
+- [ProstT5](https://github.com/mheinzinger/ProstT5): bilingual language model translating between protein sequence and structure
 - [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2): autoregressive model generating de novo protein sequences
 - [ProtTrans](https://github.com/agemagician/ProtTrans): transformer models trained on large protein corpora
 - [SaProt](https://github.com/westlake-repl/SaProt): structure-aware protein language model
