@@ -87,6 +87,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Pathology and imaging models
 
+- [CHIEF](https://github.com/hms-dbmi/CHIEF): clinical histopathology foundation model for cancer evaluation and prognosis
 - [CONCH](https://github.com/mahmoodlab/CONCH): vision-language foundation model for computational pathology
 - [H-optimus-0](https://huggingface.co/bioptimus/H-optimus-0): open foundation model for pathology image representation
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath): whole-slide foundation model for digital pathology
