@@ -70,6 +70,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [ProGen](https://github.com/salesforce/progen): generative protein language models for controllable design
 - [ProstT5](https://github.com/mheinzinger/ProstT5): bilingual language model translating between protein sequence and structure
 - [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2): autoregressive model generating de novo protein sequences
+- [ProTrek](https://github.com/westlake-repl/ProTrek): tri-modal protein language model aligning protein sequence, structure, and text representations
 - [ProtTrans](https://github.com/agemagician/ProtTrans): transformer models trained on large protein corpora
 - [SaProt](https://github.com/westlake-repl/SaProt): structure-aware protein language model
 
