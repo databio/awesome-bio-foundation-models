@@ -73,6 +73,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [ProTrek](https://github.com/westlake-repl/ProTrek): tri-modal protein language model aligning protein sequence, structure, and text representations
 - [ProtTrans](https://github.com/agemagician/ProtTrans): transformer models trained on large protein corpora
 - [SaProt](https://github.com/westlake-repl/SaProt): structure-aware protein language model
+- [xTrimoPGLM](https://github.com/biomap-research/xTrimoPGLM): unified 100B-scale protein language model family for protein understanding and design
 
 ## Protein structure and design models
 
