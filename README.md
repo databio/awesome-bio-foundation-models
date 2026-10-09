@@ -89,6 +89,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Pathology and imaging models
 
+- [BioCLIP](https://github.com/Imageomics/bioclip): vision-language foundation model for organismal biology pretrained on TreeOfLife-10M for fine-grained species classification and visual representation learning
 - [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224): vision-language foundation model pretrained on 15 million biomedical figure-caption pairs for cross-modal retrieval and classification
 - [CHIEF](https://github.com/hms-dbmi/CHIEF): clinical histopathology foundation model for cancer evaluation and prognosis
 - [CONCH](https://github.com/mahmoodlab/CONCH): vision-language foundation model for computational pathology
