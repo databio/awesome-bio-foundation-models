@@ -6,6 +6,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 - [AgroNT](https://huggingface.co/InstaDeepAI/agro-nucleotide-transformer-1b): nucleotide transformer trained on edible plant genomes
 - [Caduceus](https://github.com/kuleshov-group/caduceus): bi-directional, reverse-complement-equivariant long-range DNA model
+- [Carbon](https://github.com/huggingface/carbon): causal genomic language models trained on DNA and RNA sequences for sequence generation, zero-shot variant effect prediction, and fine-tuning
 - [DNABERT](https://github.com/jerryji1993/DNABERT): first BERT-style pretrained model of the human genome
 - [DNABERT-2](https://github.com/MAGICS-LAB/DNABERT_2): efficient multi-species genome model with byte-pair tokenization
 - [DNABERT-S](https://github.com/MAGICS-LAB/DNABERT_S): species-aware embeddings for genome discrimination
