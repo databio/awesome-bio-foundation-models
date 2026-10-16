@@ -94,6 +94,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [CHIEF](https://github.com/hms-dbmi/CHIEF): clinical histopathology foundation model for cancer evaluation and prognosis
 - [CONCH](https://github.com/mahmoodlab/CONCH): vision-language foundation model for computational pathology
 - [H-optimus-0](https://huggingface.co/bioptimus/H-optimus-0): open foundation model for pathology image representation
+- [Hibou](https://github.com/histai/hibou): vision transformer foundation models pretrained on over 1 million histology whole-slide images for computational pathology
 - [Phikon-v2](https://huggingface.co/owkin/phikon-v2): vision transformer foundation model pretrained on 450M pan-cancer histology images for biomarker prediction and computational pathology
 - [PLIP](https://github.com/PathologyFoundation/plip): vision-language foundation model pretrained on pathology image-text pairs for zero-shot classification and image-text retrieval
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath): whole-slide foundation model for digital pathology
