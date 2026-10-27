@@ -42,6 +42,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [scPRINT](https://github.com/cantinilab/scPRINT): pretrained model for gene network inference and denoising
 - [Stack](https://github.com/ArcInstitute/stack): single-cell foundation model enabling in-context learning over cell-by-gene matrix chunks
 - [STATE](https://github.com/ArcInstitute/state): model of cellular perturbation response
+- [Tahoe-x1](https://github.com/tahoebio/tahoe-x1): single-cell foundation model up to 3B parameters pretrained on 266 million transcriptomes for perturbation prediction and cellular representation
 - [UCE](https://github.com/snap-stanford/UCE): universal cell embeddings across species without cell-type labels
 
 ## Single-cell epigenome and chromatin models
