@@ -82,6 +82,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 - [AlphaFold](https://github.com/google-deepmind/alphafold): highly accurate protein structure prediction
 - [AlphaFold 3](https://github.com/google-deepmind/alphafold3): joint structure prediction for proteins, nucleic acids, and ligands
+- [BioEmu](https://github.com/microsoft/bioemu): generative foundation model for sampling protein equilibrium conformational ensembles and structure prediction
 - [Boltz](https://github.com/jwohlwend/boltz): open biomolecular structure prediction model
 - [Chai-1](https://github.com/chaidiscovery/chai-lab): multimodal model for molecular structure prediction
 - [EvoDiff](https://github.com/microsoft/evodiff): generative protein diffusion model for sequence generation and design
