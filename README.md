@@ -32,6 +32,7 @@ A collection of large-scale pretrained models built specifically for biological 
 ## Single-cell transcriptome models
 
 - [CellPLM](https://github.com/OmicsML/CellPLM): pretrained cell language model that treats cells as tokens
+- [GeneCompass](https://github.com/xCompass-AI/GeneCompass): knowledge-informed cross-species foundation model pretrained on over 100 million single-cell transcriptomes
 - [Geneformer](https://huggingface.co/ctheodoris/Geneformer): transfer-learning model pretrained on ~30 million single-cell transcriptomes
 - [Nicheformer](https://github.com/theislab/nicheformer): foundation model spanning dissociated and spatial single-cell data
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT): pretrained model for cell type annotation
