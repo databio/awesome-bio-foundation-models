@@ -31,6 +31,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Single-cell transcriptome models
 
+- [Cell2Sentence](https://github.com/vandijklab/cell2sentence): framework adapting language models to single-cell gene expression sequences
 - [CellPLM](https://github.com/OmicsML/CellPLM): pretrained cell language model that treats cells as tokens
 - [Geneformer](https://huggingface.co/ctheodoris/Geneformer): transfer-learning model pretrained on ~30 million single-cell transcriptomes
 - [Nicheformer](https://github.com/theislab/nicheformer): foundation model spanning dissociated and spatial single-cell data
