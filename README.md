@@ -52,7 +52,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [EpiAgent](https://github.com/xy-chen16/EpiAgent): foundation model for single-cell epigenomics
 - [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation): foundation model for single-cell ATAC-seq
 - [geniml](https://github.com/databio/geniml): machine learning toolkit for genomic intervals, including region embeddings and tokenizers
-- [HiCFoundation](https://github.com/Noble-Lab/HiCFoundation): foundation model pretrained on 118 million Hi-C contact matrix patches for 3D chromatin architecture and single-cell analysis
+- [HiCFoundation](https://github.com/Noble-Lab/HiCFoundation): foundation model pretrained on 118 million Hi-C contact submatrices for 3D chromatin architecture and single-cell analysis
 - [scBasset](https://github.com/calico/scBasset): sequence-based model of single-cell accessibility
 
 ## RNA models
