@@ -19,7 +19,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [GPN](https://github.com/songlab-cal/gpn): genomic pretrained network, including the multiple-alignment GPN-MSA variant
 - [GROVER](https://huggingface.co/PoetschLab/GROVER): DNA language model learning sequence context in the human genome
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic sequence modeling at single-nucleotide resolution
-- [JEPA-DNA](https://github.com/NVIDIA-BioNeMo/JEPA-DNA): genomic foundation model combining generative pretraining with a joint-embedding predictive objective, with released checkpoints
+- [JEPA-DNA](https://github.com/NVIDIA-BioNeMo/JEPA-DNA): continual pretraining that adds a joint-embedding predictive objective to genomic language models (DNABERT-2, NTv3, HyenaDNA), with released checkpoints
 - [megaDNA](https://github.com/lingxusb/megaDNA): long-context generative model of bacteriophage genomes
 - [Nucleotide Transformer](https://github.com/instadeepai/nucleotide-transformer): multi-species foundation models for genomics
 
@@ -32,7 +32,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Single-cell transcriptome models
 
-- [BMFM-RNA](https://github.com/BiomedSciAI/biomed-multi-omic): open framework for transcriptomic foundation models, with released IBM checkpoints
+- [BMFM-RNA](https://github.com/BiomedSciAI/biomed-multi-omic): IBM single-cell transcriptomic foundation models pretrained with whole-cell expression decoding, with an open training framework
 - [Cell2Sentence](https://github.com/vandijklab/cell2sentence): converts single-cell transcriptomes into ranked gene-name sentences for analysis with large language models
 - [CellPLM](https://github.com/OmicsML/CellPLM): pretrained cell language model that treats cells as tokens
 - [GeneCompass](https://github.com/xCompass-AI/GeneCompass): knowledge-informed cross-species foundation model pretrained on over 100 million single-cell transcriptomes
