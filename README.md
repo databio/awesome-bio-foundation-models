@@ -31,7 +31,9 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Single-cell transcriptome models
 
+- [Cell2Sentence](https://github.com/vandijklab/cell2sentence): converts single-cell transcriptomes into ranked gene-name sentences for analysis with large language models
 - [CellPLM](https://github.com/OmicsML/CellPLM): pretrained cell language model that treats cells as tokens
+- [GeneCompass](https://github.com/xCompass-AI/GeneCompass): knowledge-informed cross-species foundation model pretrained on over 100 million single-cell transcriptomes
 - [Geneformer](https://huggingface.co/ctheodoris/Geneformer): transfer-learning model pretrained on ~30 million single-cell transcriptomes
 - [Nicheformer](https://github.com/theislab/nicheformer): foundation model spanning dissociated and spatial single-cell data
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT): pretrained model for cell type annotation
@@ -52,6 +54,7 @@ A collection of large-scale pretrained models built specifically for biological 
 - [EpiAgent](https://github.com/xy-chen16/EpiAgent): foundation model for single-cell epigenomics
 - [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation): foundation model for single-cell ATAC-seq
 - [geniml](https://github.com/databio/geniml): machine learning toolkit for genomic intervals, including region embeddings and tokenizers
+- [HiCFoundation](https://github.com/Noble-Lab/HiCFoundation): foundation model pretrained on 118 million Hi-C contact submatrices for 3D chromatin architecture and single-cell analysis
 - [scBasset](https://github.com/calico/scBasset): sequence-based model of single-cell accessibility
 
 ## RNA models
@@ -67,21 +70,27 @@ A collection of large-scale pretrained models built specifically for biological 
 ## Protein language models
 
 - [AbLang](https://github.com/oxpig/AbLang): antibody language model pretrained on antibody sequences for sequence restoration and representation learning
+- [AMPLIFY](https://github.com/chandar-lab/AMPLIFY): protein language models pretrained on diverse protein sequence databases for representation learning and property prediction
 - [Ankh](https://github.com/agemagician/Ankh): optimized general-purpose protein language model
+- [DPLM](https://github.com/bytedance/dplm): family of diffusion protein language models (DPLM, DPLM-2) for protein sequence and structure generation and representation learning
 - [ESM](https://github.com/facebookresearch/esm): ESM-1b, ESM-2, and ESMFold protein language models
 - [ESM3 / ESM C](https://github.com/evolutionaryscale/esm): multimodal generative protein models over sequence, structure, and function
+- [IgLM](https://github.com/Graylab/IgLM): generative language model pretrained on antibody sequences for conditionally generating and infilling antibody sequence libraries
 - [ProGen](https://github.com/salesforce/progen): generative protein language models for controllable design
 - [ProstT5](https://github.com/mheinzinger/ProstT5): bilingual language model translating between protein sequence and structure
 - [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2): autoregressive model generating de novo protein sequences
 - [ProTrek](https://github.com/westlake-repl/ProTrek): tri-modal protein language model aligning protein sequence, structure, and text representations
 - [ProtTrans](https://github.com/agemagician/ProtTrans): transformer models trained on large protein corpora
+- [RITA](https://github.com/lightonai/RITA): family of autoregressive protein language models pretrained on UniRef100 for protein sequence generation and representation learning
 - [SaProt](https://github.com/westlake-repl/SaProt): structure-aware protein language model
+- [Tranception](https://github.com/OATML-Markslab/Tranception): autoregressive protein language model with inference-time retrieval for protein fitness prediction
 - [xTrimoPGLM](https://github.com/biomap-research/xTrimoPGLM): unified 100B-scale protein language model family for protein understanding and design
 
 ## Protein structure and design models
 
 - [AlphaFold](https://github.com/google-deepmind/alphafold): highly accurate protein structure prediction
 - [AlphaFold 3](https://github.com/google-deepmind/alphafold3): joint structure prediction for proteins, nucleic acids, and ligands
+- [BioEmu](https://github.com/microsoft/bioemu): generative model that samples protein equilibrium structure ensembles from sequence
 - [Boltz](https://github.com/jwohlwend/boltz): open biomolecular structure prediction model
 - [Chai-1](https://github.com/chaidiscovery/chai-lab): multimodal model for molecular structure prediction
 - [EvoDiff](https://github.com/microsoft/evodiff): generative protein diffusion model for sequence generation and design
@@ -92,11 +101,15 @@ A collection of large-scale pretrained models built specifically for biological 
 
 ## Pathology and imaging models
 
+- [BioCLIP](https://github.com/Imageomics/bioclip): vision-language foundation model for organismal biology pretrained on TreeOfLife-10M for fine-grained taxonomic classification
 - [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224): vision-language foundation model pretrained on 15 million biomedical figure-caption pairs for cross-modal retrieval and classification
+- [BiomedParse](https://github.com/microsoft/BiomedParse): biomedical foundation model for joint segmentation, detection, and recognition across nine imaging modalities
 - [CHIEF](https://github.com/hms-dbmi/CHIEF): clinical histopathology foundation model for cancer evaluation and prognosis
 - [CONCH](https://github.com/mahmoodlab/CONCH): vision-language foundation model for computational pathology
 - [H-optimus-0](https://huggingface.co/bioptimus/H-optimus-0): open foundation model for pathology image representation
 - [Hibou](https://github.com/histai/hibou): vision transformer foundation models pretrained on over 1 million histology whole-slide images for computational pathology
+- [OpenPhenom](https://huggingface.co/recursionpharma/OpenPhenom): channel-agnostic masked autoencoder (ViT-S/16) that embeds multi-channel Cell Painting microscopy images
+- [Phikon](https://huggingface.co/owkin/phikon): open foundation model for histology representation based on ViT-B/16 pretrained on 40 million human histopathology tiles
 - [Phikon-v2](https://huggingface.co/owkin/phikon-v2): vision transformer foundation model pretrained on 450M pan-cancer histology images for biomarker prediction and computational pathology
 - [PLIP](https://github.com/PathologyFoundation/plip): vision-language foundation model pretrained on pathology image-text pairs for zero-shot classification and image-text retrieval
 - [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath): whole-slide foundation model for digital pathology
@@ -108,6 +121,7 @@ A collection of large-scale pretrained models built specifically for biological 
 
 - [BioBERT](https://github.com/dmis-lab/biobert): domain-specific language model pretrained on PubMed biomedical literature
 - [BioGPT](https://github.com/microsoft/BioGPT): generative pretrained transformer for biomedical text
+- [BioLinkBERT](https://github.com/michiyasunaga/LinkBERT): biomedical language model pretrained on PubMed abstracts and their citation links for text mining and question answering
 - [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM): 2.7B parameter GPT-style model pretrained on PubMed abstracts and full-text papers
 - [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext): domain-specific language model pretrained from scratch on PubMed abstracts and full-text articles
 - [TxGNN](https://github.com/mims-harvard/TxGNN): zero-shot drug repurposing over a medical knowledge graph
