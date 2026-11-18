@@ -39,9 +39,11 @@ A collection of large-scale pretrained models built specifically for biological 
 - [Geneformer](https://huggingface.co/ctheodoris/Geneformer): transfer-learning model pretrained on ~30 million single-cell transcriptomes
 - [Nicheformer](https://github.com/theislab/nicheformer): foundation model spanning dissociated and spatial single-cell data
 - [scBERT](https://github.com/TencentAILabHealthcare/scBERT): pretrained model for cell type annotation
+- [sCellTransformer](https://huggingface.co/InstaDeepAI/sCellTransformer): long-range model for zero-shot gene expression and cell type prediction in single-cell and spatial transcriptomics
 - [scFoundation](https://github.com/biomap-research/scFoundation): large-scale model over the full transcriptome
 - [scGPT](https://github.com/bowang-lab/scGPT): generative pretrained model for single-cell multi-omics
 - [SCimilarity](https://github.com/Genentech/scimilarity): single-cell foundation model for cell annotation and similarity search
+- [scLong](https://github.com/BaiDing1234/scLong): billion-parameter model pretrained on 48 million cells with self-attention across all ~28,000 human genes
 - [scMulan](https://github.com/SuperBianC/scMulan): multitask generative model of cell language
 - [scPRINT](https://github.com/cantinilab/scPRINT): pretrained model for gene network inference and denoising
 - [Stack](https://github.com/ArcInstitute/stack): single-cell foundation model enabling in-context learning over cell-by-gene matrix chunks
