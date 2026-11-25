@@ -65,10 +65,12 @@ A collection of large-scale pretrained models built specifically for biological 
 
 - [Orthrus](https://github.com/bowang-lab/Orthrus): contrastive mature RNA model for functional property prediction
 - [RhoFold](https://github.com/ml4bio/RhoFold): language-model-based RNA 3D structure prediction
+- [RIBOSPAN](https://github.com/GAIR-NLP/RIBOSPAN-FM): 1.6B-parameter long-context RNA foundation model natively pretrained on full transcripts up to 10,240 nt
 - [RiNALMo](https://github.com/lbcb-sci/RiNALMo): large RNA language model generalizing across structural tasks
 - [RNAErnie](https://github.com/CatIIIIIIII/RNAErnie): motif-aware multi-purpose RNA language model
 - [RNA-FM](https://github.com/ml4bio/RNA-FM): foundation model trained on non-coding RNA sequences
 - [SpliceBERT](https://github.com/chenkenbio/SpliceBERT): language model pretrained on vertebrate primary RNA sequences for RNA splicing analysis
+- [structRFM](https://github.com/heqin-zhu/structRFM): structure-guided RNA foundation model pretrained on 21 million RNA sequence-structure pairs
 - [UTR-LM](https://github.com/a96123155/UTR-LM): language model of 5' UTRs for translation prediction
 
 ## Protein language models
